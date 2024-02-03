@@ -32,12 +32,3 @@ As a recent graduate in Data Science, I, Zihao Han, not only bring a wealth of t
 </div>
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=zhan17&icon=2&color=5">
-    <img src="https://visitcount.itsvg.in" />
-  </a>
-</div>
-
-<div align="center">
-  <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-</div>
