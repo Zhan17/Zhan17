@@ -21,14 +21,6 @@ As a recent graduate in Data Science, I, Zihao Han, not only bring a wealth of t
   <img src="https://github-profile-trophy.vercel.app/?username=zhan17&theme=apprentice&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
-</div>
 
-### 😂 Random Dev Meme
-<div align="center">
-  <img src="https://randommeme-five.vercel.app/" style="height: 400px;" />
-</div>
 
 ---
